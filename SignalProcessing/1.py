@@ -49,6 +49,30 @@ output_path_before = os.path.join(output_directory, f'random_signal.png')
 output_path_after = os.path.join(output_directory, f'filtered_signal.png')
 
 plot_and_save_signal(time_values, r_signal, 'Випадковий сигнал (до фільтрації)', 'Час, сек', 'Значення сигналу',
-            output_path_before)
+                     output_path_before)
 plot_and_save_signal(time_values, filtered_signal, f'Сигнал  F_max = {F_max} Гц', 'Час, сек',
-            'Значення після фільтрації', output_path_after)
+                     'Значення після фільтрації', output_path_after)
+
+# Розрахунок та відображення спектру
+freq_before, spectrum_before = signal.welch(r_signal, Fs, nperseg=n)
+freq_after, spectrum_after = signal.welch(filtered_signal, Fs, nperseg=n)
+
+# Зеркальне відображення
+half_idx = len(freq_before) // 2
+freq_before = np.concatenate((-np.flip(freq_before[:half_idx]), freq_before[:half_idx]))
+spectrum_before = np.concatenate((np.flip(spectrum_before[:half_idx]), spectrum_before[:half_idx]))
+freq_after = np.concatenate((-np.flip(freq_after[:half_idx]), freq_after[:half_idx]))
+spectrum_after = np.concatenate((np.flip(spectrum_after[:half_idx]), spectrum_after[:half_idx]))
+
+plt.figure(figsize=(21, 14))
+plt.semilogy(freq_before, spectrum_before, label='До фільтрації')
+plt.semilogy(freq_after, spectrum_after, label='Після фільтрації')
+plt.title('Спектр сигналу')
+plt.xlabel('Частота, Гц')
+plt.ylabel('Амплітуда')
+plt.legend()
+plt.grid(True)
+
+output_path_spectrum = os.path.join(output_directory, f'signal_spectrum.png')
+plt.savefig(output_path_spectrum, dpi=600)
+plt.show()
