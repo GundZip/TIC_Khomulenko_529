@@ -1,0 +1,630 @@
+original_sequence: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+Len(sequence): 1600 [bits]
+entropy: 0.6098403047164004
+
+RLE coding
+coded RLE: 6021901113011301140111001120114011601130115011701190114011
+len(coded): 928 [bits]
+compression_ratio_RLE: 1.72
+decoded_RLE: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.39
+Decoded LZW: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+Len(sequence): 1600 [bits]
+entropy: 0.7611884030780174
+
+RLE coding
+coded RLE: 2401n101m501o101o901u201h2101l1901e201k501k10
+len(coded): 720 [bits]
+compression_ratio_RLE: 2.22
+decoded_RLE: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.21
+Decoded LZW: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+Len(sequence): 2080 [bits]
+entropy: 3.3927474104487847
+
+RLE coding
+coded RLE: 1k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o151219
+len(coded): 4160 [bits]
+compression_ratio_RLE: -
+decoded_RLE: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(decoded_RLE): 2080 [bits]
+
+compression_ratio_LZW: 2.39
+Decoded LZW: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(Decoded LZW): 2080 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+Len(sequence): 1600 [bits]
+entropy: 2.321928094887362
+
+RLE coding
+coded RLE: 3k123k122h151k191k1215121k25191k221k19121k121915191239152h1k15122h1k191h151h1519151h121h19121k25321522191k1h291k2h191k15221k1915191h151h191k2h19151h251h1215191h
+len(coded): 2560 [bits]
+compression_ratio_RLE: -
+decoded_RLE: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+Len(sequence): 1440 [bits]
+entropy: 2.113283334294875
+
+RLE coding
+coded RLE: 1k15191h19151h292k1h151k192h122h2k1h222h1k1h3k1h151k151h12151k191k3h122h191k193k121h3k194h22191h1k251k1h1k151h1k1h3k1h15221k1h1k1h1k
+len(coded): 2112 [bits]
+compression_ratio_RLE: -
+decoded_RLE: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(decoded_RLE): 1440 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(Decoded LZW): 1440 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+Len(sequence): 1600 [bits]
+entropy: 4.927208660547246
+
+RLE coding
+coded RLE: 1t1b1i1j1q1d1q1n15191d161a1r1f1u141n1o1p1d1j1u1l15191b1z12151c1z1j1s1t16131o1z12161x1h1w1z1x143v1q1n17131i1c10191z181i1e1g1u1b1i1q1j1t1x1b1w1j131a1e1n181c11161z1e1a1s1d1o1w1n1y1h1z1y1013191h1f1v1e
+len(coded): 3136 [bits]
+compression_ratio_RLE: -
+decoded_RLE: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.05
+Decoded LZW: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Len(sequence): 1600 [bits]
+entropy: -0.0
+
+RLE coding
+coded RLE: 1001
+len(coded): 64 [bits]
+compression_ratio_RLE: 25.0
+decoded_RLE: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 6.75
+Decoded LZW: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+Len(sequence): 1600 [bits]
+entropy: 0.6098403047164004
+
+RLE coding
+coded RLE: 6021901113011301140111001120114011601130115011701190114011
+len(coded): 928 [bits]
+compression_ratio_RLE: 1.72
+decoded_RLE: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.39
+Decoded LZW: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+Len(sequence): 1600 [bits]
+entropy: 0.7611884030780174
+
+RLE coding
+coded RLE: 2401n101m501o101o901u201h2101l1901e201k501k10
+len(coded): 720 [bits]
+compression_ratio_RLE: 2.22
+decoded_RLE: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.21
+Decoded LZW: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+Len(sequence): 2080 [bits]
+entropy: 3.3927474104487847
+
+RLE coding
+coded RLE: 1k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o151219
+len(coded): 4160 [bits]
+compression_ratio_RLE: -
+decoded_RLE: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(decoded_RLE): 2080 [bits]
+
+compression_ratio_LZW: 2.39
+Decoded LZW: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(Decoded LZW): 2080 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+Len(sequence): 1600 [bits]
+entropy: 2.321928094887362
+
+RLE coding
+coded RLE: 3k123k122h151k191k1215121k25191k221k19121k121915191239152h1k15122h1k191h151h1519151h121h19121k25321522191k1h291k2h191k15221k1915191h151h191k2h19151h251h1215191h
+len(coded): 2560 [bits]
+compression_ratio_RLE: -
+decoded_RLE: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+Len(sequence): 1440 [bits]
+entropy: 2.113283334294875
+
+RLE coding
+coded RLE: 1k15191h19151h292k1h151k192h122h2k1h222h1k1h3k1h151k151h12151k191k3h122h191k193k121h3k194h22191h1k251k1h1k151h1k1h3k1h15221k1h1k1h1k
+len(coded): 2112 [bits]
+compression_ratio_RLE: -
+decoded_RLE: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(decoded_RLE): 1440 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(Decoded LZW): 1440 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+Len(sequence): 1600 [bits]
+entropy: 4.927208660547246
+
+RLE coding
+coded RLE: 1t1b1i1j1q1d1q1n15191d161a1r1f1u141n1o1p1d1j1u1l15191b1z12151c1z1j1s1t16131o1z12161x1h1w1z1x143v1q1n17131i1c10191z181i1e1g1u1b1i1q1j1t1x1b1w1j131a1e1n181c11161z1e1a1s1d1o1w1n1y1h1z1y1013191h1f1v1e
+len(coded): 3136 [bits]
+compression_ratio_RLE: -
+decoded_RLE: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.05
+Decoded LZW: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Len(sequence): 1600 [bits]
+entropy: -0.0
+
+RLE coding
+coded RLE: 1001
+len(coded): 64 [bits]
+compression_ratio_RLE: 25.0
+decoded_RLE: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 6.75
+Decoded LZW: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+Len(sequence): 1600 [bits]
+entropy: 0.6098403047164004
+
+RLE coding
+coded RLE: 6021901113011301140111001120114011601130115011701190114011
+len(coded): 928 [bits]
+compression_ratio_RLE: 1.72
+decoded_RLE: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.39
+Decoded LZW: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+Len(sequence): 1600 [bits]
+entropy: 0.7611884030780174
+
+RLE coding
+coded RLE: 2401n101m501o101o901u201h2101l1901e201k501k10
+len(coded): 720 [bits]
+compression_ratio_RLE: 2.22
+decoded_RLE: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.21
+Decoded LZW: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+Len(sequence): 2080 [bits]
+entropy: 3.3927474104487847
+
+RLE coding
+coded RLE: 1k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o151219
+len(coded): 4160 [bits]
+compression_ratio_RLE: -
+decoded_RLE: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(decoded_RLE): 2080 [bits]
+
+compression_ratio_LZW: 2.39
+Decoded LZW: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(Decoded LZW): 2080 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+Len(sequence): 1600 [bits]
+entropy: 2.321928094887362
+
+RLE coding
+coded RLE: 3k123k122h151k191k1215121k25191k221k19121k121915191239152h1k15122h1k191h151h1519151h121h19121k25321522191k1h291k2h191k15221k1915191h151h191k2h19151h251h1215191h
+len(coded): 2560 [bits]
+compression_ratio_RLE: -
+decoded_RLE: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+Len(sequence): 1440 [bits]
+entropy: 2.113283334294875
+
+RLE coding
+coded RLE: 1k15191h19151h292k1h151k192h122h2k1h222h1k1h3k1h151k151h12151k191k3h122h191k193k121h3k194h22191h1k251k1h1k151h1k1h3k1h15221k1h1k1h1k
+len(coded): 2112 [bits]
+compression_ratio_RLE: -
+decoded_RLE: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(decoded_RLE): 1440 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(Decoded LZW): 1440 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+Len(sequence): 1600 [bits]
+entropy: 4.927208660547246
+
+RLE coding
+coded RLE: 1t1b1i1j1q1d1q1n15191d161a1r1f1u141n1o1p1d1j1u1l15191b1z12151c1z1j1s1t16131o1z12161x1h1w1z1x143v1q1n17131i1c10191z181i1e1g1u1b1i1q1j1t1x1b1w1j131a1e1n181c11161z1e1a1s1d1o1w1n1y1h1z1y1013191h1f1v1e
+len(coded): 3136 [bits]
+compression_ratio_RLE: -
+decoded_RLE: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.05
+Decoded LZW: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Len(sequence): 1600 [bits]
+entropy: -0.0
+
+RLE coding
+coded RLE: 1001
+len(coded): 64 [bits]
+compression_ratio_RLE: 25.0
+decoded_RLE: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 6.75
+Decoded LZW: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+Len(sequence): 1600 [bits]
+entropy: 0.6098403047164004
+
+RLE coding
+coded RLE: 6021901113011301140111001120114011601130115011701190114011
+len(coded): 928 [bits]
+compression_ratio_RLE: 1.72
+decoded_RLE: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.39
+Decoded LZW: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+Len(sequence): 1600 [bits]
+entropy: 0.7611884030780174
+
+RLE coding
+coded RLE: 2401n101m501o101o901u201h2101l1901e201k501k10
+len(coded): 720 [bits]
+compression_ratio_RLE: 2.22
+decoded_RLE: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.21
+Decoded LZW: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+Len(sequence): 2080 [bits]
+entropy: 3.3927474104487847
+
+RLE coding
+coded RLE: 1k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o151219
+len(coded): 4160 [bits]
+compression_ratio_RLE: -
+decoded_RLE: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(decoded_RLE): 2080 [bits]
+
+compression_ratio_LZW: 2.39
+Decoded LZW: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(Decoded LZW): 2080 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+Len(sequence): 1600 [bits]
+entropy: 2.321928094887362
+
+RLE coding
+coded RLE: 3k123k122h151k191k1215121k25191k221k19121k121915191239152h1k15122h1k191h151h1519151h121h19121k25321522191k1h291k2h191k15221k1915191h151h191k2h19151h251h1215191h
+len(coded): 2560 [bits]
+compression_ratio_RLE: -
+decoded_RLE: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+Len(sequence): 1440 [bits]
+entropy: 2.113283334294875
+
+RLE coding
+coded RLE: 1k15191h19151h292k1h151k192h122h2k1h222h1k1h3k1h151k151h12151k191k3h122h191k193k121h3k194h22191h1k251k1h1k151h1k1h3k1h15221k1h1k1h1k
+len(coded): 2112 [bits]
+compression_ratio_RLE: -
+decoded_RLE: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(decoded_RLE): 1440 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(Decoded LZW): 1440 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+Len(sequence): 1600 [bits]
+entropy: 4.927208660547246
+
+RLE coding
+coded RLE: 1t1b1i1j1q1d1q1n15191d161a1r1f1u141n1o1p1d1j1u1l15191b1z12151c1z1j1s1t16131o1z12161x1h1w1z1x143v1q1n17131i1c10191z181i1e1g1u1b1i1q1j1t1x1b1w1j131a1e1n181c11161z1e1a1s1d1o1w1n1y1h1z1y1013191h1f1v1e
+len(coded): 3136 [bits]
+compression_ratio_RLE: -
+decoded_RLE: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.05
+Decoded LZW: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Len(sequence): 1600 [bits]
+entropy: -0.0
+
+RLE coding
+coded RLE: 1001
+len(coded): 64 [bits]
+compression_ratio_RLE: 25.0
+decoded_RLE: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 6.75
+Decoded LZW: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+Len(sequence): 1600 [bits]
+entropy: 0.6098403047164004
+
+RLE coding
+coded RLE: 6021901113011301140111001120114011601130115011701190114011
+len(coded): 928 [bits]
+compression_ratio_RLE: 1.72
+decoded_RLE: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.39
+Decoded LZW: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+Len(sequence): 1600 [bits]
+entropy: 0.7611884030780174
+
+RLE coding
+coded RLE: 2401n101m501o101o901u201h2101l1901e201k501k10
+len(coded): 720 [bits]
+compression_ratio_RLE: 2.22
+decoded_RLE: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.21
+Decoded LZW: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+Len(sequence): 2080 [bits]
+entropy: 3.3927474104487847
+
+RLE coding
+coded RLE: 1k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o151219
+len(coded): 4160 [bits]
+compression_ratio_RLE: -
+decoded_RLE: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(decoded_RLE): 2080 [bits]
+
+compression_ratio_LZW: 2.39
+Decoded LZW: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(Decoded LZW): 2080 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+Len(sequence): 1600 [bits]
+entropy: 2.321928094887362
+
+RLE coding
+coded RLE: 3k123k122h151k191k1215121k25191k221k19121k121915191239152h1k15122h1k191h151h1519151h121h19121k25321522191k1h291k2h191k15221k1915191h151h191k2h19151h251h1215191h
+len(coded): 2560 [bits]
+compression_ratio_RLE: -
+decoded_RLE: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+Len(sequence): 1440 [bits]
+entropy: 2.113283334294875
+
+RLE coding
+coded RLE: 1k15191h19151h292k1h151k192h122h2k1h222h1k1h3k1h151k151h12151k191k3h122h191k193k121h3k194h22191h1k251k1h1k151h1k1h3k1h15221k1h1k1h1k
+len(coded): 2112 [bits]
+compression_ratio_RLE: -
+decoded_RLE: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(decoded_RLE): 1440 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(Decoded LZW): 1440 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+Len(sequence): 1600 [bits]
+entropy: 4.927208660547246
+
+RLE coding
+coded RLE: 1t1b1i1j1q1d1q1n15191d161a1r1f1u141n1o1p1d1j1u1l15191b1z12151c1z1j1s1t16131o1z12161x1h1w1z1x143v1q1n17131i1c10191z181i1e1g1u1b1i1q1j1t1x1b1w1j131a1e1n181c11161z1e1a1s1d1o1w1n1y1h1z1y1013191h1f1v1e
+len(coded): 3136 [bits]
+compression_ratio_RLE: -
+decoded_RLE: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.05
+Decoded LZW: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Len(sequence): 1600 [bits]
+entropy: -0.0
+
+RLE coding
+coded RLE: 1001
+len(coded): 64 [bits]
+compression_ratio_RLE: 25.0
+decoded_RLE: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 6.75
+Decoded LZW: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+Len(sequence): 1600 [bits]
+entropy: 0.6098403047164004
+
+RLE coding
+coded RLE: 6021901113011301140111001120114011601130115011701190114011
+len(coded): 928 [bits]
+compression_ratio_RLE: 1.72
+decoded_RLE: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.39
+Decoded LZW: 0000001100000000010000000000000100010000100000000001001000010000001000100000100000001000000000100001
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+Len(sequence): 1600 [bits]
+entropy: 0.7611884030780174
+
+RLE coding
+coded RLE: 2401n101m501o101o901u201h2101l1901e201k501k10
+len(coded): 720 [bits]
+compression_ratio_RLE: 2.22
+decoded_RLE: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 3.21
+Decoded LZW: 000000000000000000000000n0m00000o0o000000000u00h000000000000000000000l0000000000000000000e00k00000k0
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+Len(sequence): 2080 [bits]
+entropy: 3.3927474104487847
+
+RLE coding
+coded RLE: 1k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o1512191k1h1o1m1u1l1e1n1k1o151219
+len(coded): 4160 [bits]
+compression_ratio_RLE: -
+decoded_RLE: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(decoded_RLE): 2080 [bits]
+
+compression_ratio_LZW: 2.39
+Decoded LZW: khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529khomulenko529
+len(Decoded LZW): 2080 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+Len(sequence): 1600 [bits]
+entropy: 2.321928094887362
+
+RLE coding
+coded RLE: 3k123k122h151k191k1215121k25191k221k19121k121915191239152h1k15122h1k191h151h1519151h121h19121k25321522191k1h291k2h191k15221k1915191h151h191k2h19151h251h1215191h
+len(coded): 2560 [bits]
+compression_ratio_RLE: -
+decoded_RLE: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: kkk2kkk2hh5k9k252k559k22k92k295929995hhk52hhk9h5h595h2h92k552225229kh99khh9k522k959h5h9khh95h55h259h
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+Len(sequence): 1440 [bits]
+entropy: 2.113283334294875
+
+RLE coding
+coded RLE: 1k15191h19151h292k1h151k192h122h2k1h222h1k1h3k1h151k151h12151k191k3h122h191k193k121h3k194h22191h1k251k1h1k151h1k1h3k1h15221k1h1k1h1k
+len(coded): 2112 [bits]
+compression_ratio_RLE: -
+decoded_RLE: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(decoded_RLE): 1440 [bits]
+
+compression_ratio_LZW: 1.66
+Decoded LZW: k59h95h99kkh5k9hh2hhkkh22hhkhkkkh5k5h25k9khhh2hh9k9kkk2hkkk9hhhh229hk55khk5hkhkkkh522khkhk
+len(Decoded LZW): 1440 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+Len(sequence): 1600 [bits]
+entropy: 4.927208660547246
+
+RLE coding
+coded RLE: 1t1b1i1j1q1d1q1n15191d161a1r1f1u141n1o1p1d1j1u1l15191b1z12151c1z1j1s1t16131o1z12161x1h1w1z1x143v1q1n17131i1c10191z181i1e1g1u1b1i1q1j1t1x1b1w1j131a1e1n181c11161z1e1a1s1d1o1w1n1y1h1z1y1013191h1f1v1e
+len(coded): 3136 [bits]
+compression_ratio_RLE: -
+decoded_RLE: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 1.05
+Decoded LZW: tbijqdqn59d6arfu4nopdjul59bz25czjst63oz26xhwzx4vvvqn73ic09z8iegubiqjtxbwj3aen8c16zeasdownyhzy039hfve
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
+original_sequence: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Len(sequence): 1600 [bits]
+entropy: -0.0
+
+RLE coding
+coded RLE: 1001
+len(coded): 64 [bits]
+compression_ratio_RLE: 25.0
+decoded_RLE: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(decoded_RLE): 1600 [bits]
+
+compression_ratio_LZW: 6.75
+Decoded LZW: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+len(Decoded LZW): 1600 [bits]
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
